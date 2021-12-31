@@ -20,3 +20,4 @@ function verificarEntrada(){
         mudaCor.classList.remove('click-botao');
     }
 }
+
